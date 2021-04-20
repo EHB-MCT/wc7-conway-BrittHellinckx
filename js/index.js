@@ -1,5 +1,5 @@
 "use strict";
-
+import Cell from "./cell.js";
 
 function init() {
 
@@ -7,6 +7,5 @@ function init() {
 
 
 init();
-
 
 
